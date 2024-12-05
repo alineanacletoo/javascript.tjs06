@@ -48,5 +48,5 @@ if(nomeProduto){
     var valorToral = precoUnitario * quantidade;
     console.log(` Produto:  ${nomeProduto}`);
     console.log(`Quantidade:  ${quantidade}`);
-    console.log(`Valor Total:  ${valorToral.toFixed(2)}`);
+    console.log(`Valor Total:  ${valorToral.toFixed(2)}`); 
 }
