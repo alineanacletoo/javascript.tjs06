@@ -8,6 +8,7 @@ let numero = entrada;
 if(isNaN(numero)){
     console.log("Por favor, digite um numero válido!");
     return;
+
 }
 
 let posicao = numeros.indexOf(numero);
